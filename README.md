@@ -1,5 +1,5 @@
 # CO2_emissions
-Queries on public dataset CO2 emissions per country and year from ourworldindata.org
+Queries on public dataset CO2 emissions per country and year from ourworldindata.org.
 Original file split into four tables: countrydata, co2general, percapita, shareglobal
 
 - each table contains year, country name and iso code as base information
@@ -8,8 +8,8 @@ Original file split into four tables: countrydata, co2general, percapita, shareg
 - percapita holds data about co2 emissions from different sources divided by a country's population in the respective year
 - shareglobal holds data about the share of (cumulative) emissions per country from different sources in relation to global emissions
 
-Original data set: https://github.com/owid/co2-data/blob/master/owid-co2-data.csv
-Code book for descriptions of all column headers: https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv
+Original data set: https://github.com/owid/co2-data/blob/master/owid-co2-data.csv.
+Code book for descriptions of all column headers: https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv.
 
 More about Our World in Data (owid): https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
 
